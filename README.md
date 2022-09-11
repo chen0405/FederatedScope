@@ -1,5 +1,6 @@
-# To run the code
 We use the FederatedScope framework, so first follow https://tianchi.aliyun.com/forum/postDetail?spm=5176.12281978.0.0.555e3ab4aJfzJs&postId=402279 to set up the FederatedScope, the contest data can be downloaded from https://tianchi.aliyun.com/competition/entrance/532008/information:
+
+# To run the code
 
 TODO: 
 
